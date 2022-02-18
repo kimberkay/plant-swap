@@ -10,3 +10,5 @@
 
 
 1:15 - 2:30 Work in GoogleSheets to populate API
+
+2:30 - 3:30 Start Udemy course on React.
