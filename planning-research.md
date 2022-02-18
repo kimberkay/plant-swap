@@ -5,3 +5,7 @@
 
 10:15 - 11:00: Create Google Sheet to start entering data and plant subs for my API. Still contemplating best way to organize the queries. Also, researching Walmart in various mid-West/non-Portland cities to understand what kind of products are available in other parts of the country. Portland has a lot to offer vegans, I want to offer everyone the ability to find subs. 
 
+11:15 - 11:30: Back to Figma to rework UX choices
+
+
+
