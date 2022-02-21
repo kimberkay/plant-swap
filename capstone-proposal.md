@@ -24,4 +24,5 @@
 
 ## ## Technologies Used
 * Azure
+* Figma
 

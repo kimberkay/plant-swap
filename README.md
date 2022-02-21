@@ -1,3 +1,5 @@
+
+Feb-18-22
 8:05 - 9:00: Work in Figma to brainstorm how users might want to query the API so I can figure out what key words and info to include in my API
 
 
@@ -7,9 +9,11 @@
 
 11:15 - 11:30: Back to Figma to rework UX choices
 
-
-
 1:15 - 2:30 Work in GoogleSheets to populate API
 
 2:30 - 3:30 Start Udemy course on React.
+
+Feb-20-22 
+
+8:15 - Talked over my project with a friend last night, while talking through what I planned to do with her I finally figured out how to structure my swaps. Working now in GoogleSheets to restructure my API.
 
