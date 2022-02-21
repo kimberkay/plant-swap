@@ -17,6 +17,5 @@ Feb-20-22
 
 8:15pm - Talked over my project with a friend last night, while talking through what I planned to do with her I finally figured out how to structure my swaps. Working now in GoogleSheets to restructure my API.
 
-9:10pm- Restructured and added swaps to API. Feeling a bit overwhelmed with how to code swaps when there is so much nuance to cooking. Currently thinking about that nuance and importance in API
-while also trying to execute effective swaps and committing to decisions. Balancing line of being a content creator and coder.
+9:10pm- Restructured and added swaps to API. 
 
