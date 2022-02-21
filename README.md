@@ -1,6 +1,6 @@
 
 Feb-18-22
-8:05 - 9:00: Work in Figma to brainstorm how users might want to query the API so I can figure out what key words and info to include in my API
+8:05am - 9:00: Work in Figma to brainstorm how users might want to query the API so I can figure out what key words and info to include in my API
 
 
 9:00 - 10:00: Research if possible to send over more than one ingredient at a time to swap for an API query
@@ -15,5 +15,8 @@ Feb-18-22
 
 Feb-20-22 
 
-8:15 - Talked over my project with a friend last night, while talking through what I planned to do with her I finally figured out how to structure my swaps. Working now in GoogleSheets to restructure my API.
+8:15pm - Talked over my project with a friend last night, while talking through what I planned to do with her I finally figured out how to structure my swaps. Working now in GoogleSheets to restructure my API.
+
+9:10pm- Restructured and added swaps to API. Feeling a bit overwhelmed with how to code swaps when there is so much nuance to cooking. Currently thinking about that nuance and importance in API
+while also trying to execute effective swaps and committing to decisions. Balancing line of being a content creator and coder.
 
