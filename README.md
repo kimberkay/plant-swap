@@ -17,5 +17,10 @@ Feb-20-22
 
 8:15pm - Talked over my project with a friend last night, while talking through what I planned to do with her I finally figured out how to structure my swaps. Working now in GoogleSheets to restructure my API.
 
-9:10pm- Restructured and added swaps to API. 
+9:10pm- Restructured and added swaps to API.
+
+Feb-24-22
+
+8:30 - 9:00 Added columns to google sheets before getting ready to import csv into mySqul. Sheets need a lot of work (entries) but I finally have a good structure to follow. Will import sheet today to create table but will end up filling in many, many more swaps and re-importing the csv again.
+
 

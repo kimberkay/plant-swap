@@ -22,7 +22,10 @@
 * Add a css or javascript animation to the UI to make it more interactive
 
 
-## ## Technologies Used
+## Additional Tools and Resources
 * Azure
 * Figma
+
+## Notes to the Instructor
+* No additional information at this time
 
